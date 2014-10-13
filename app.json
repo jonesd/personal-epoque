@@ -1,0 +1,7 @@
+{
+  "name": "Personal Epoque",
+  "description": "Trends over the course of a lifespan",
+  "repository": "https://github.com/jonesd/personal-epoque",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
